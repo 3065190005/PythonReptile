@@ -2,6 +2,7 @@
 樱花动漫视频爬取
 请手动安装requests库
 用到的库有
+re
 requests
 os
 urllib
